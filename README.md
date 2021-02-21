@@ -1,1 +1,1 @@
-Programming assignments for AP Computer Science A. 
+Fall 2020 / AP Computer Science A 
